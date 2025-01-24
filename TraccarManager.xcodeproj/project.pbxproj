@@ -289,7 +289,7 @@
 				DEVELOPMENT_TEAM = JALBQN5K53;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = TraccarManager/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Trailblazer Pioneer Manager";
+				INFOPLIST_KEY_CFBundleDisplayName = Manager;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -421,7 +421,7 @@
 				DEVELOPMENT_TEAM = JALBQN5K53;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = TraccarManager/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Trailblazer Pioneer Manager";
+				INFOPLIST_KEY_CFBundleDisplayName = Manager;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -447,7 +447,7 @@
 				DEVELOPMENT_TEAM = JALBQN5K53;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = TraccarManager/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Trailblazer Pioneer Manager";
+				INFOPLIST_KEY_CFBundleDisplayName = Manager;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
